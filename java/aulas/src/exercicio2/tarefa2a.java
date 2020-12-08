@@ -3,7 +3,7 @@ package exercicio2;
 import  java.util.Scanner ;
 
 public class tarefa2a {
-	//exercico 4 do dia 08-12-2020
+	//exercico 4 do dia  8~12~20
 	public static void main(String[] args)
 	{
 		
