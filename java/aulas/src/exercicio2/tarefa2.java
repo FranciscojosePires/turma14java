@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class tarefa2 {
 	 public static void main(String[] args)
-{//exercico 3 do dia 8/12/2020
+{//exercico 3 do dia 08-12-2020
 	Scanner ler = new Scanner (System.in);
 	int n1, n2, n3, n4;
 	
