@@ -1,7 +1,8 @@
-package exercico9_12_20;
+package exercicios10_12_20;
+
 import java.util.Scanner;
-public class atividade1 {
-	
+public class parefa1 {
+	//tarefa1
 	public static void main(String[] args) {
 	
 		float vetor[];

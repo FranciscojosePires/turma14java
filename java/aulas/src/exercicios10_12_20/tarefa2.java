@@ -1,8 +1,7 @@
-package exercico9_12_20;
+package exercicios10_12_20;
 import java.util.Scanner;
-public class atividadedia10
-
-{//atividade do dia 10/12/20 questão 2
+public class tarefa2 {
+  //atividade do dia 10/12/20 questão 2
 	public static void main(String[] args)
 	{
 		Scanner ler = new Scanner(System.in);
